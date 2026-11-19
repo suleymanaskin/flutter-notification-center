@@ -1,17 +1,50 @@
-# bildirim_tasarim
+# 🔔 Bildirim Merkezi – Flutter
 
-A new Flutter project.
+Flutter ve Dart kullanılarak geliştirdiğim ilk arayüz projelerimden biridir. Bu projede temel Flutter widget'larını kullanarak modern ve sade bir bildirim merkezi tasarladım.
 
-## Getting Started
+## 📱 Uygulama Görünümü
 
-This project is a starting point for a Flutter application.
+<img width="339" height="733" alt="image" src="https://github.com/user-attachments/assets/6583962a-f049-477e-a8d9-6be0fd3672bb" />
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Özellikler
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Hoş geldin mesajı
+- Gerçek zamanlı saat gösterimi
+- Tarih bilgisi
+- İnternet üzerinden görsel görüntüleme
+- Bildirim kartları
+- Kullanıcı profil görseli
+- Bildirim saati gösterimi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler
+
+- Flutter
+- Dart
+- Android Studio
+
+## 📚 Kullanılan Flutter Widget'ları
+
+- Scaffold
+- AppBar
+- Container
+- Row
+- Column
+- Text
+- Icon
+- CircleAvatar
+- SizedBox
+- BoxDecoration
+
+## 🎯 Projenin Amacı
+
+Flutter öğrenme sürecimde temel arayüz tasarımı, widget yerleşimleri, zaman yönetimi ve StatefulWidget kullanımını pekiştirmek amacıyla geliştirilmiştir.
+
+## 👨‍💻 Geliştirici
+
+**Süleyman Aşkın**
+
+GitHub: [@suleymanaskin](https://github.com/suleymanaskin)
+
+---
+
+⭐ Bu proje Flutter öğrenme sürecimde geliştirdiğim ilk çalışmalarımdan biridir.
